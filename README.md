@@ -1,5 +1,5 @@
+<caption>KUMA's correlation rules knowledgebase</caption>
 <table border="1">
-        <caption>KUMA's correlation rules knowledgebase</caption>
         <tr name="HEADER"> 
             <td>LID</td>
             <td>Tenant</td>
@@ -246,3 +246,4 @@
 	<td>164a20dc-f0d5-429f-9c58-f07d5bc82c17</td>
 	<td>L1-gts</td>
 </tr>
+</table>
